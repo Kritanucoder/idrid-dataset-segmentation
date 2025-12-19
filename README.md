@@ -677,18 +677,6 @@ Contributions are welcome! Please follow these steps:
 
 ## 📚 Citation
 
-If you use this code in your research, please cite:
-
-```bibtex
-@article{idrid_segmentation_2024,
-  title={IDRiD Retinal Lesion Segmentation using Patch-Based U-Net},
-  author={Kritanu Chattopadhyay},
-  supervisor={Dr. Xiaoyu Cao},
-  journal={GitHub Repository},
-  year={2024},
-  url={https://github.com/kritanu/idrid-lesion-segmentation}
-}
-```
 
 ### Dataset Citation
 
