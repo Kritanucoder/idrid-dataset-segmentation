@@ -724,9 +724,6 @@ copies or substantial portions of the Software.
 
 - **Dr. Xiaoyu Cao** - Research Supervisor and Mentor
 - **IDRiD Dataset Team** - For providing the high-quality annotated dataset
-- **PyTorch Community** - For the excellent deep learning framework
-- **Albumentations** - For the powerful augmentation library
-- **Medical Imaging Community** - For advancing automated diagnosis
 
 ---
 
